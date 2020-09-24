@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92d3ea3c-9237-485c-aea7-a2b68a48c219" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.8400212d8ac23844f389.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.8400212d8ac23844f389.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600985947077</updated>
       <workItem from="1600985948289" duration="107000" />
+      <workItem from="1600986494322" duration="25000" />
     </task>
     <servers />
   </component>
@@ -70,14 +71,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1600986042982">
+    <state x="667" y="258" width="585" height="534" key="find.popup" timestamp="1600986505049">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="667" y="258" width="585" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600986042982" />
+    <state x="667" y="258" width="585" height="534" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1600986505049" />
   </component>
 </project>
